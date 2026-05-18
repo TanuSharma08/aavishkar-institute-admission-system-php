@@ -215,17 +215,6 @@ http://localhost/aavishkar-institute/index.php
 
 ---
 
-# 🚀 Future Enhancements
-
-- ✅ Online payment integration
-- ✅ Student attendance management
-- ✅ Online examination module
-- ✅ Study material system
-- ✅ Notification improvements
-- ✅ Enhanced UI & responsiveness
-
----
-
 # 🤝 Contributing
 
 Suggestions and improvements are always welcome.
