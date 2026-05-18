@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 0px;
+  background-image: url("../images/book.png");
+  background-size: cover;
+  color: white;
+  padding: 100px;
+  margin-bottom: 40px;
+  } 
+  
+th{
+  font-size: 18px;
+  background-color: rgb(20, 98, 150);
+  color: white;
+}
+
+tr{
+  width: 100%;
+  text-align: center;
+}
+
+textarea {
+  font-family: Arial, Helvetica, sans-serif;
+}
